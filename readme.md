@@ -3,3 +3,5 @@
 ## 使用说明
 
 安装配置rclone，安装jq，下载`upload.sh`脚本，`chmod +x upload.sh`，然后`./upload.sh`运行即可。
+
+更多请参考[本文](https://dev.kermsite.com/post/zipupload/)
